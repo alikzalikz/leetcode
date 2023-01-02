@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_Valid_Parentheses", "src
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_Roman_to_Integer", "src\13_Roman_to_Integer\13_Roman_to_Integer.csproj", "{91E3FD02-20CC-4ED1-919C-64C1661F31F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1523_Count_Odd_Numbers_in_an_Interval_Range", "src\1523_Count_Odd_Numbers_in_an_Interval_Range\1523_Count_Odd_Numbers_in_an_Interval_Range.csproj", "{938AE717-F681-4EB2-BE79-61F2561E5329}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{91E3FD02-20CC-4ED1-919C-64C1661F31F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91E3FD02-20CC-4ED1-919C-64C1661F31F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91E3FD02-20CC-4ED1-919C-64C1661F31F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{938AE717-F681-4EB2-BE79-61F2561E5329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938AE717-F681-4EB2-BE79-61F2561E5329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938AE717-F681-4EB2-BE79-61F2561E5329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938AE717-F681-4EB2-BE79-61F2561E5329}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -38,6 +44,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{273D86C6-C9E8-44E8-B529-59948D9939D6} = {8CCCCD97-3137-42E3-A3FB-0E9A25D9DD62}
 		{91E3FD02-20CC-4ED1-919C-64C1661F31F3} = {8CCCCD97-3137-42E3-A3FB-0E9A25D9DD62}
+		{938AE717-F681-4EB2-BE79-61F2561E5329} = {8CCCCD97-3137-42E3-A3FB-0E9A25D9DD62}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {443FD98D-B327-4404-A3C2-321E016CC040}
